@@ -182,8 +182,6 @@ end)
 Change the "changeme" 
 Use the already provided props as an example. 
 
-**Download**
-
 **How To Use**
 
 Without any edits the commands are 
