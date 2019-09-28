@@ -5,7 +5,7 @@ Hello everyone,
 Today I bring you a simple but modular script. With this, you can make items [Props] carryable by the player and at any time drop them on the ground and pick them back up. 
 
 I have added a few props in a list for you to use to get started.
-https://forum.fivem.net/uploads/default/original/4X/2/f/f/2ffae7626473801271f96f994794c1106142ca90.mp4 
+
 ```
 attachPropList = {
 
